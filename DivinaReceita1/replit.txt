@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Random Title</title>
+
+   <!-- CSS link (loading Semantic UI from a CDN) -->
+
+  <link rel="stylesheet" type="text/css" href="./stylesheets/header.css">
+
+</head>
+<body class="container">
+
+<header>
+
+  <div class="container"> 
+
+    <div class="logo">
+     <h2>
+       Divina 
+     </h2>
+
+      <h2>
+        Receita
+      </h2>
+    </div>
+    
+   <div class="elementos">
+       <a class="item" href="/">
+         Home
+       </a>
+       <a class="item" href="/massas">
+         Massas
+       </a>
+      <a class="item" href="/tipicas">
+        Típicas
+      </a>
+      <a class="item" href="/frutosdomar">
+        Frutos do Mar
+      </a>
+      <a class="item" href="/sobrenos">
+        Sobre Nós
+      </a>
+
+      
+   </div>
+
+    <div class="perfil"> 
+    <button class="item" href="/perfil">
+      <p>Perfil</p>
+    </button>
+    </div>
+
+  </div>
+</header>
